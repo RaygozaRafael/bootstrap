@@ -1,3 +1,8 @@
 .logo-ninja { 
     max-height: 35px;
 }
+
+.accordion-item{
+    background-color: aquamarine;
+    text-align: center;
+}
